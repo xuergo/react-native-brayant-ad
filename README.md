@@ -1,5 +1,15 @@
 # react-native-brayant-ad
 
+
+# 运行example
+```
+yarn
+cd example
+yarn
+yarn android
+yarn ios
+```
+
 接入穿山甲SDK
 
 ## 后期代办
