@@ -1,5 +1,10 @@
 # react-native-brayant-ad
 
+# 注意
+如果 .yarn/releases/yarn-3.6.1.cjs 不能存在
+1. https://github.com/yarnpkg/berry/issues/5748 按照这个解决
+2. 直接新 create-react-native-library 一个项目从里面粘贴一个
+
 
 # 运行example
 ```
